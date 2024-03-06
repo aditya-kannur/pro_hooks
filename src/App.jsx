@@ -24,7 +24,7 @@ function App() {
 
   // should not change the LOGIC inside this function - you can make changes to the function but logic should NOT change
   const testFunction = ()=>{
-    return [value*3 ,value*4]
+    return [value*5 ,value*4]
   }
 
   
